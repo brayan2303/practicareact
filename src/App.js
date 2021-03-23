@@ -26,9 +26,9 @@ function App() {
       <Container maxWidth="sm">
         <Typography component="div" style={{ backgroundColor: '#c0c0c0', height: '100vh' }} >
           <div className={classes.root}>
-            <Grid container spacing={1}>
+            <Grid container spacing={3}>
               <Grid item xs={12}><Paper className={classes.paper}>
-              <TextField id="outlined-basic" fullWidth label="Ingrese un valor" variant="outlined"  />
+              <TextField id="outlined-basic" fullWidth label="Ingrese" variant="outlined"  />
               </Paper></Grid>
             
               <Grid item xs={3}>
