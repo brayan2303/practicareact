@@ -2,9 +2,7 @@
 
 Este proyecto inicia con fundamentos en react, html, js y boostrap.
 
-## Available Scripts
 
-En el directorio del proyecto, puede ejecutar:
 
 ### `npm start`
 
