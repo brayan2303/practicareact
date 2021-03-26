@@ -2,9 +2,7 @@
 
 Este proyecto inicia con fundamentos en react, html, js y boostrap.
 
-## Available Scripts
 
-Este proyecto inicia con fundamentos en react, html, js y boostrap.
 
 ### `npm start`
 
@@ -12,8 +10,7 @@ La aplicacion se ejecuta en el navegador con http://localhost:3000 y despliega l
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 ### `npm run build`
 
