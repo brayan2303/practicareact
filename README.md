@@ -1,18 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto inicia con fundamentos en react, html, js y boostrap.
 
 ## Available Scripts
 
-In the project directory, you can run:
+Este proyecto inicia con fundamentos en react, html, js y boostrap.
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+La aplicacion se ejecuta en el navegador con http://localhost:3000 y despliega la interfaz, se guardan los cambios, se recarga la pagina y se prodra identificar la modificaciones, ademas de ver los errores en la consola de Visual Studio.
 
 ### `npm test`
 
