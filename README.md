@@ -4,6 +4,7 @@ Este proyecto inicia con fundamentos en react, html, js y boostrap.
 
 
 
+
 ### `npm start`
 
 La aplicacion se ejecuta en el navegador con http://localhost:3000 y despliega la interfaz, se guardan los cambios, se recarga la pagina y se prodra identificar la modificaciones, ademas de ver los errores en la consola de Visual Studio.
