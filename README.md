@@ -2,9 +2,8 @@
 
 Este proyecto inicia con fundamentos en react, html, js y boostrap.
 
-## Available Scripts
 
-Este proyecto inicia con fundamentos en react, html, js y boostrap.
+
 
 ### `npm start`
 
