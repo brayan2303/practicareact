@@ -13,6 +13,10 @@ Para poder iniciar el proyecto en su ordenador debe tener los siguientes program
 -	Navegadores
 
 ![image](https://user-images.githubusercontent.com/62713688/112780211-fa1b4d80-900d-11eb-928d-1dd9cb6fb0ca.png) ![image](https://user-images.githubusercontent.com/62713688/112780260-17501c00-900e-11eb-94d7-9d3272eeeff9.png)
+![image](https://user-images.githubusercontent.com/62713688/112780292-2767fb80-900e-11eb-9008-6a672a5db6d3.png)
+![image](https://user-images.githubusercontent.com/62713688/112780352-48c8e780-900e-11eb-9926-b3ed6c23de4d.png)
+![image](https://user-images.githubusercontent.com/62713688/112780373-54b4a980-900e-11eb-8543-77f642d5f88c.png)
+
 
 
 Tener en cuenta los requisitos mínimos de cada programa para la debida ejecución de los mismos. 
@@ -24,6 +28,8 @@ Descargar el archivo desde el repositorio GitHub y de ese modo ya desde Visual S
 ### Ejecutando las pruebas 
 
 Después de abrir el archivo, podemos seleccionar new terminar de Visual Studio, ejecutamos el comando en npm start. 
+![image](https://user-images.githubusercontent.com/62713688/112780400-60a06b80-900e-11eb-9a5a-cf21980a3daf.png)
+
 Nota: en algunos casos después de ejecutar el comando, Visual Studio preguntara para abrir en localhost (y/n)
 Debemos responder ( y ) se abrirá.
 
