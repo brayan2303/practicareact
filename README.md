@@ -1,65 +1,59 @@
-# Getting Started with Create React App
+# Calculadora App
 
-Este proyecto inicia con fundamentos en react, html, js y boostrap.
+La calculadora te permite realizar operaciones básicas matemáticas como sumar, restar, multiplicar y dividir con los valores que usted desee.
 
-## Available Scripts
+## Comenzando
 
-Este proyecto inicia con fundamentos en react, html, js y boostrap.
+La aplicación se ejecutará a nivel local en el navegador con la dirección  http: // localhost: 3000 de la cual se despliega la interfaz, además de poder realizar cambios de prueba los cuales se podrán guardar, se recarga la página y se podrá identificar las modificaciones, también se podrá observar los errores en la consola de Visual Studio.
 
-### `npm start`
+## Pre-requisitos
 
-La aplicacion se ejecuta en el navegador con http://localhost:3000 y despliega la interfaz, se guardan los cambios, se recarga la pagina y se prodra identificar la modificaciones, ademas de ver los errores en la consola de Visual Studio.
+Para poder iniciar el proyecto en su ordenador debe tener los siguientes programas:
+-	Visual Studio
+-	Navegadores
+Tener en cuenta los requisitos mínimos de cada programa para la debida ejecución de los mismos. 
 
-### `npm test`
 
 
+Descargar el archivo desde el repositorio GitHub y de ese modo ya desde Visual Studio se podrá abrir el archivo y realizar las pruebas que usted desee . 
 
-### `npm run build`
+### Ejecutando las pruebas 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Después de abrir el archivo, podemos seleccionar new terminar de Visual Studio, ejecutamos el comando en npm start. 
+Nota: en algunos casos después de ejecutar el comando, Visual Studio preguntara para abrir en localhost (y/n)
+Debemos responder ( y ) se abrirá.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Despliegue
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+En la siguiente página podemos visualizar la ejecución de programa que va a realizar
+https://happy-ritchie-d10463.netlify.app/
 
-### `npm run eject`
+### Construido con:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+HTML
+JS
+REACT
+CSS
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Aprende más
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+En los siguientes enlaces podrás obtener más in formación sobre la programación en react:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Video tutorial: https://www.youtube.com/watch?v=yFAIMEupsuo&list=PLIddmSRJEJ0vEBB6ECegg35IQ-sWjSDdo&ab_channel=RaulPalacios
 
-## Learn More
+Puede obtener más información en la documentación de la aplicación Create React.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Para aprender React, consulte la documentación de React 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Conceptos
 
-### Code Splitting
+useState() es una función que crea internamente una variable donde podremos almacenar el estado de nuestro componente. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+useEffect acepta una función como argumento. Esta función se ejecuta por defecto cuando el componente se renderiza por primera vez, y después cada vez que el componente se actualice.
 
-### Analyzing the Bundle Size
+concat() se usa para unir dos o más arrays. Este método no cambia los arrays existentes, sino que devuelve un nuevo array.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+slice() devuelve una copia de una parte del array dentro de un nuevo array empezando por inicio hasta fin (fin no incluido).
 
-### Making a Progressive Web App
+eval() evalúa un código JavaScript representado como una cadena de caracteres (string), sin referenciar a un objeto en particular.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
