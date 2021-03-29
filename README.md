@@ -12,7 +12,8 @@ Para poder iniciar el proyecto en su ordenador debe tener los siguientes program
 -	Visual Studio
 -	Navegadores
 
-![image](https://user-images.githubusercontent.com/62713688/112780211-fa1b4d80-900d-11eb-928d-1dd9cb6fb0ca.png)
+![image](https://user-images.githubusercontent.com/62713688/112780211-fa1b4d80-900d-11eb-928d-1dd9cb6fb0ca.png) ![image](https://user-images.githubusercontent.com/62713688/112780260-17501c00-900e-11eb-94d7-9d3272eeeff9.png)
+
 
 Tener en cuenta los requisitos mínimos de cada programa para la debida ejecución de los mismos. 
 
