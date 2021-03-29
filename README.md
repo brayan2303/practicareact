@@ -11,6 +11,9 @@ La aplicación se ejecutará a nivel local en el navegador con la dirección  ht
 Para poder iniciar el proyecto en su ordenador debe tener los siguientes programas:
 -	Visual Studio
 -	Navegadores
+
+![image](https://user-images.githubusercontent.com/62713688/112780211-fa1b4d80-900d-11eb-928d-1dd9cb6fb0ca.png)
+
 Tener en cuenta los requisitos mínimos de cada programa para la debida ejecución de los mismos. 
 
 
