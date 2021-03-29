@@ -14,7 +14,6 @@ Para poder iniciar el proyecto en su ordenador debe tener los siguientes program
 
 ![image](https://user-images.githubusercontent.com/62713688/112780211-fa1b4d80-900d-11eb-928d-1dd9cb6fb0ca.png) ![image](https://user-images.githubusercontent.com/62713688/112780260-17501c00-900e-11eb-94d7-9d3272eeeff9.png)
 ![image](https://user-images.githubusercontent.com/62713688/112780549-b412b980-900e-11eb-8c2b-b846e299a1d1.png)
-![image](https://user-images.githubusercontent.com/62713688/112780292-2767fb80-900e-11eb-9008-6a672a5db6d3.png)
 ![image](https://user-images.githubusercontent.com/62713688/112780352-48c8e780-900e-11eb-9926-b3ed6c23de4d.png)
 ![image](https://user-images.githubusercontent.com/62713688/112780373-54b4a980-900e-11eb-8543-77f642d5f88c.png)
 
