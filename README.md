@@ -1,4 +1,4 @@
-# Calculadora App 🚀
+# Calculadora App 📱
 
 La calculadora te permite realizar operaciones básicas matemáticas como sumar, restar, multiplicar y dividir con los valores que usted desee.
 
