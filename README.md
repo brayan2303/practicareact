@@ -53,9 +53,9 @@ En los siguientes enlaces podrás obtener más in formación sobre la programaci
 
 Video tutorial: https://www.youtube.com/watch?v=yFAIMEupsuo&list=PLIddmSRJEJ0vEBB6ECegg35IQ-sWjSDdo&ab_channel=RaulPalacios
 
-Puede obtener más información en la documentación de la aplicación Create React.
+Puede obtener más información en la documentación de la aplicación Create React https://es.reactjs.org/docs/faq-functions.html
 
-Para aprender React, consulte la documentación de React 
+Para aprender React, consulte la documentación de React  https://es.reactjs.org/docs/getting-started.html
 
 ### Conceptos ⚠️
 
