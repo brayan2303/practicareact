@@ -1,12 +1,12 @@
-# Calculadora App
+# Calculadora App 🚀
 
 La calculadora te permite realizar operaciones básicas matemáticas como sumar, restar, multiplicar y dividir con los valores que usted desee.
 
-## Comenzando
+## Comenzando 🚲
 
 La aplicación se ejecutará a nivel local en el navegador con la dirección  http: // localhost: 3000 de la cual se despliega la interfaz, además de poder realizar cambios de prueba los cuales se podrán guardar, se recarga la página y se podrá identificar las modificaciones, también se podrá observar los errores en la consola de Visual Studio.
 
-## Pre-requisitos
+## Pre-requisitos 🔧
 
 Para poder iniciar el proyecto en su ordenador debe tener los siguientes programas:
 -	Visual Studio
@@ -26,7 +26,7 @@ Tener en cuenta los requisitos mínimos de cada programa para la debida ejecuci�
 
 Descargar el archivo desde el repositorio GitHub y de ese modo ya desde Visual Studio se podrá abrir el archivo y realizar las pruebas que usted desee . 
 
-### Ejecutando las pruebas 
+### Ejecutando las pruebas ⚙️
 
 Después de abrir el archivo, podemos seleccionar new terminar de Visual Studio, ejecutamos el comando en npm start. 
 
@@ -35,19 +35,19 @@ Después de abrir el archivo, podemos seleccionar new terminar de Visual Studio,
 Nota: en algunos casos después de ejecutar el comando, Visual Studio preguntara para abrir en localhost (y/n)
 Debemos responder ( y ) se abrirá.
 
-### Despliegue
+### Despliegue 💻
 
 En la siguiente página podemos visualizar la ejecución de programa que va a realizar
 https://sleepy-bohr-18f5a3.netlify.app/
 
-### Construido con:
+### Construido con: 📃
 
 HTML
 JS
 REACT
 CSS
 
-### Aprende más
+### Aprende más 📔 
 
 En los siguientes enlaces podrás obtener más in formación sobre la programación en react:
 
@@ -57,7 +57,7 @@ Puede obtener más información en la documentación de la aplicación Create Re
 
 Para aprender React, consulte la documentación de React 
 
-### Conceptos
+### Conceptos ⚠️
 
 useState() es una función que crea internamente una variable donde podremos almacenar el estado de nuestro componente. 
 
