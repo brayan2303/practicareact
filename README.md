@@ -42,10 +42,10 @@ https://sleepy-bohr-18f5a3.netlify.app/
 
 ### Construido con: 📃
 
-HTML
-JS
-REACT
-CSS
+-HTML: Elaboración de páginas web.
+-JS: Orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico.
+-REACT: Es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.
+-CSS: Es un lenguaje que define la apariencia de un documento escrito en un lenguaje de marcado (por ejemplo, HTML)
 
 ### Aprende más 📔 
 
