@@ -28,7 +28,11 @@ Descargar el archivo desde el repositorio GitHub y de ese modo ya desde Visual S
 
 ### Ejecutando las pruebas ⚙️
 
-Después de abrir el archivo, podemos seleccionar new terminar de Visual Studio, ejecutamos el comando en npm start. 
+Después de abrir el archivo, podemos seleccionar new terminar de Visual Studio, ejecutamos el comando en: 
+
+-npm install
+
+-npm start 
 
 ![image](https://user-images.githubusercontent.com/62713688/112780400-60a06b80-900e-11eb-9a5a-cf21980a3daf.png)
 
